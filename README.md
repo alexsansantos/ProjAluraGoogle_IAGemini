@@ -6,3 +6,7 @@ Echoes é um chatbot experimental que te permite conversar com figuras históric
 Importante: A qualidade da conversa depende das informações disponíveis sobre a pessoa com quem você deseja interagir.
 
 Experimente Echoes!
+
+![image](https://github.com/alexsansantos/ProjAluraGoogle_IAGemini/assets/142915856/74c2d5f9-01de-4e55-a3a1-5d61b8864dbf)
+
+![image](https://github.com/alexsansantos/ProjAluraGoogle_IAGemini/assets/142915856/d7b10e9c-cffc-4282-bf51-f9f7440201d9)
